@@ -6,9 +6,8 @@
 
 <br/>
 
+- :computer: &nbsp;**Junior AI Engineer** @ **Deep Mind Labs Ltd.**.
 - 🌱 &nbsp;Completed my graduation in CSE at **University of Rajshahi**.
-- 🔭 I’m currently practicing **Data Structure and Algorithms**.
-- :computer: &nbsp; Aspire to be a **Software Engineer**.
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
