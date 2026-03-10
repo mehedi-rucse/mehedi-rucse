@@ -6,7 +6,7 @@
 
 <br/>
 
-- :computer: &nbsp;**Junior AI Engineer** @ **Deep Mind Labs Ltd.**.
+- :computer: &nbsp;**Senior AI Engineer** @ **Deep Mind Labs Ltd.**.
 - 🌱 &nbsp;Completed my graduation in CSE at **University of Rajshahi**.
 <br>
 
